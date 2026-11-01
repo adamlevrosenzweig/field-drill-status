@@ -1,204 +1,210 @@
 {
-  "generated": "2026-10-31",
-  "lastChecked": "2026-10-31",
+  "generated": "2026-11-01",
+  "lastChecked": "2026-11-01",
   "siteVersion": "2026.1001.6",
   "sources": {
     "p202": {
       "title": "2.02 Allergic Reaction",
       "effective": "2024-04-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p204": {
       "title": "2.04 Cardiac Arrest",
       "effective": "2026-04-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p205": {
       "title": "2.05 After Cardiac Arrest (ROSC)",
       "effective": "2025-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p206": {
       "title": "2.06 Chest Pain",
       "effective": "2025-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p207": {
       "title": "2.07 Symptomatic Bradycardia",
       "effective": "2024-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p208": {
       "title": "2.08 Tachycardia",
       "effective": "2025-04-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p211": {
       "title": "2.11 Respiratory Distress",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "airway": {
       "title": "General Airway Management",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "cpap": {
       "title": "Continuous Positive Airway Pressure (CPAP)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "sga": {
       "title": "7.03 Supraglottic Airway (i-gel)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p5000": {
       "title": "5000 Destination Policy",
       "effective": "2025-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p50001": {
       "title": "5000.1 SF Hospital Designations",
       "effective": "2026-08-03",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p50002": {
       "title": "5000.2 Alternate Destination Criteria",
       "effective": "2025-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "p5001": {
       "title": "5001 Trauma Triage Criteria",
       "effective": "2026-04-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "appd": {
       "title": "Appendix D Ambulance Mutual Aid Escalation",
       "effective": "",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "memo617": {
       "title": "Memo: CPMC Mission Bernal Stroke Center",
       "effective": "2026-07-07",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "memo572": {
       "title": "Memo: UCSF Saint Francis Pediatric Burn Center",
       "effective": "2025-03-07",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-adenosine": {
       "title": "Adenosine (medication page)",
       "effective": "2025-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-epinephrine": {
       "title": "Epinephrine (medication page)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-atropine": {
       "title": "Atropine (medication page)",
       "effective": "2026-04-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-amiodarone": {
       "title": "Amiodarone (medication page)",
       "effective": "2023-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-albuterol": {
       "title": "Albuterol (medication page)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-aspirin": {
       "title": "Aspirin (medication page)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-calcium": {
       "title": "Calcium Chloride (medication page)",
       "effective": "2024-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-diphenhydramine": {
       "title": "Diphenhydramine (medication page)",
       "effective": "2024-04-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-fentanyl": {
       "title": "Fentanyl (medication page)",
       "effective": "2025-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-magnesium": {
       "title": "Magnesium Sulfate (medication page)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-midazolam": {
       "title": "Midazolam (medication page)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-naloxone": {
       "title": "Naloxone (medication page)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-nitroglycerin": {
       "title": "Nitroglycerin (medication page)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-ondansetron": {
       "title": "Ondansetron (medication page)",
       "effective": "2026-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-bicarb": {
       "title": "Sodium Bicarbonate (medication page)",
       "effective": "2026-04-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     },
     "d-saline": {
       "title": "Normal Saline (medication page)",
       "effective": "2023-10-01",
-      "lastChecked": "2026-10-31",
+      "lastChecked": "2026-11-01",
+      "changedOn": null
+    },
+    "t22": {
+      "title": "CA Title 22 \u00a7100066.02 EMT Scope of Practice",
+      "effective": "2025-01-01",
+      "lastChecked": "2026-11-01",
       "changedOn": null
     }
   }
